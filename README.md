@@ -25,12 +25,18 @@ Main class of a project should be named as `Main.java` and should reside in `$pr
 ## Building Projects
 
 Fire the following command to build the projects:
-`gradle assemble`
+```
+gradle assemble
+```
 
 The jars are in `$project-name/build/lib/`directory. To run a jar, type:
-`java -jar $project-name/build/lib/$project-name.jar`
+```
+java -jar $project-name/build/lib/$project-name.jar
+```
 
-To create the Eclipse/Netbeans/Idea specific descriptor files, you've to add another plugin in the `build.gradle`. Check the build file for details.
+To create the Eclipse/Idea specific descriptor files, add corresponding plugin and run `gradle $plugin-name`.
 
 To clean the project, type:
-`gradle clean`
+```
+gradle clean
+```
