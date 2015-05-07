@@ -34,9 +34,7 @@ The jars are in `$project-name/build/lib/`directory. To run a jar, type:
 java -jar $project-name/build/lib/$project-name.jar
 ```
 
-To create the Eclipse/Idea specific descriptor files, add corresponding plugin and run `gradle $plugin-name`.
-
-To clean the project, type:
+To create the Eclipse/Idea specific descriptor files, add corresponding plugin and follow it's commands. To clean the project, type:
 ```
 gradle clean
 ```
