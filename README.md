@@ -2,17 +2,14 @@
 
 Design patterns are a general solution to commonly occuring problems when designing an application or system. They are the best practices a programmer can use to design a software.
 
-This project contains several small projects focusing different design patterns. I've created it solely for learning purpose. Here, [gradle](https://gradle.org/) is used as build automation tool.
-
-All forms of contribution (bug reports, bug fixes, pull requests and simple suggestions) are welcomed. Thanks!
+This project contains several small projects focusing different design patterns. It is created solely for learning purpose. Here, [gradle](https://gradle.org/) is used as build automation tool.
 
 
 ## List of Design Patterns
 
 * hello-world (test project)
 * Model-View-Controller
-
-(Many more to come!)
+* (Many more to come!)
 
 
 ## Project Structure
@@ -38,3 +35,8 @@ To create the Eclipse/Idea specific descriptor files, add corresponding plugin a
 ```
 gradle clean
 ```
+
+
+## Contribution
+
+All forms of contribution (bug reports, bug fixes, pull requests and simple suggestions) are welcomed. Thanks!
