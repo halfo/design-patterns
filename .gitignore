@@ -1,7 +1,7 @@
 *.class
 
 # Gradle dirs
-.gradle/*
+.gradle/
 
 # Package Files #
 *.jar
