@@ -2,6 +2,7 @@
 
 # Gradle dirs
 .gradle/
+*/build/
 
 # Package Files #
 *.jar
