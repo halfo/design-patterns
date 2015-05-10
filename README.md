@@ -9,6 +9,7 @@ This project contains several small projects focusing different design patterns.
 
 * hello-world (test project)
 * Model-View-Controller
+* Strategy Pattern
 * (Many more to come!)
 
 
