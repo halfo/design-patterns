@@ -1,13 +1,13 @@
 package io.github.halfo;
 
 public class Model {
-	private long result;
+    private long result;
 
-	public void addTwoNumbers(int firstNumber, int secondNumber) {
-		result = firstNumber + secondNumber;
-	}
+    public void addTwoNumbers(int firstNumber, int secondNumber) {
+        result = firstNumber + secondNumber;
+    }
 
-	public long getResult() {
-		return result;
-	}
+    public long getResult() {
+        return result;
+    }
 }
