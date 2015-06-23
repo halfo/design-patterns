@@ -1,1 +1,5 @@
-include ":hello-world", ":mvc", ":strategy", ":singleton"
+include ":hello-world",
+        ":factory",
+        ":mvc",
+        ":singleton",
+        ":strategy"

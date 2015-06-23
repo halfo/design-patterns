@@ -1,10 +1,5 @@
 package io.github.halfo;
 
-/*
- * A simple calculator program
- * It takes two integer number and returns their sum
- */
-
 public class Main {
     public static void main(String[] args) {
         Model model = new Model();

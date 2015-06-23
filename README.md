@@ -8,9 +8,10 @@ This project contains several small projects focusing different design patterns.
 ## List of Design Patterns
 
 * hello-world (test project)
+* Factory Pattern
 * Model-View-Controller
-* Strategy Pattern
 * Singleton Pattern
+* Strategy Pattern
 * (Many more to come!)
 
 
