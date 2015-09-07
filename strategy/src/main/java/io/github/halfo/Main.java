@@ -6,7 +6,9 @@ public class Main {
         fighter.printStyle();
 
         fighter.setHealth((int) (Math.random() * 101));
-        fighter.changeStyle(new FightStyleFactory().getFightStyle(fighter.getHealth()));
+        fighter.changeStyle(fighter.getHealth() > 50 ?
+                              new Aggressive() :
+                              new Defensive());
         fighter.printStyle();
     }
 }
