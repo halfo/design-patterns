@@ -7,12 +7,14 @@ This project contains several small projects focusing different design patterns.
 
 ## List of Design Patterns
 
-* hello-world (test project)
-* Factory Pattern
-* Model-View-Controller
-* Singleton Pattern
-* Strategy Pattern
-* (Many more to come!)
+* Behavioral Patterns
+  * Strategy Pattern
+  * Observer Pattern
+* Creational Patterns
+  * Factory Pattern
+  * Singleton Pattern
+* Structural Patterns
+  * Model-View-Controller
 
 
 ## Project Structure
